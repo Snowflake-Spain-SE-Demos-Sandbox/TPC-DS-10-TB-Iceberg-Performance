@@ -9,7 +9,7 @@
 Este notebook es un tutorial práctico que demuestra las capacidades de rendimiento de Snowflake al ejecutar consultas analíticas complejas sobre un dataset de **10 Terabytes en formato Iceberg** utilizando el benchmark estándar de la industria **TPC-DS**.
 
 **Instrucciones:**
-Desde tu cuenta de Snowflake, crea un nuevo Notebook con la opción **Import** del archivo 
+Desde tu cuenta de Snowflake, crea un nuevo Notebook con la opción **Import** del archivo SNOWFLAKE_TPCDS_ICEBERG_10TB_TUTORIAL.ipynb
 
 **Objetivos de aprendizaje:**
 1. Comprender el modelo de datos TPC-DS en formato Iceberg
