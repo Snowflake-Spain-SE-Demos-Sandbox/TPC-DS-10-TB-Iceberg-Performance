@@ -13,7 +13,8 @@ Este dataset utiliza Managed Iceberg Tables en Snowflake, donde el almacenamient
 ![Logo de Snowflake](https://github.com/Snowflake-Spain-SE-Demos-Sandbox/TPC-DS-10-TB-Iceberg-Performance/blob/main/tables-iceberg-snowflake-as-catalog.svg?raw=true)
 
 **Instrucciones:**
-Desde tu cuenta de Snowflake, crea un nuevo Notebook con la opción **Import** del archivo SNOWFLAKE_TPCDS_ICEBERG_10TB_TUTORIAL.ipynb
+1. Crea tu cuenta trial gratuita en Snowflake: https://signup.snowflake.com/
+2. Desde tu cuenta de Snowflake, crea un nuevo Notebook con la opción **Import** del archivo SNOWFLAKE_TPCDS_ICEBERG_10TB_TUTORIAL.ipynb
 
 **Objetivos de aprendizaje:**
 1. Comprender el modelo de datos TPC-DS en formato Iceberg
