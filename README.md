@@ -10,7 +10,7 @@ Este notebook es un tutorial práctico que demuestra las capacidades de rendimie
 
 Este dataset utiliza Managed Iceberg Tables en Snowflake, donde el almacenamiento reside en cloud storage fuera de Snowflake, que puede ser utilizado por otros motores:
 
-![Logo de Snowflake](tables-iceberg-snowflake-as-catalog.svg)
+![Logo de Snowflake]((https://raw.githubusercontent.com/Snowflake-Spain-SE-Demos-Sandbox/TPC-DS-10-TB-Iceberg-Performance/008e54703f2134ae016d55aef2c2e091c723109f/tables-iceberg-snowflake-as-catalog.svg))
 
 **Instrucciones:**
 Desde tu cuenta de Snowflake, crea un nuevo Notebook con la opción **Import** del archivo SNOWFLAKE_TPCDS_ICEBERG_10TB_TUTORIAL.ipynb
